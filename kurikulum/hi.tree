@@ -2,9 +2,8 @@
 <!DOCTYPE instance-profile
         SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
 
-<instance-profile id="hi" name="Kurikulum qodr"
-                 start-page="">
-
+<instance-profile id="hi" name="qodr"
+                 start-page="Qodr.md">
     <toc-element topic="Computer-Intoduction.md">
         <toc-element topic="Introduction-to-Qodr.md">
             <toc-element topic="Qodr.md"/>

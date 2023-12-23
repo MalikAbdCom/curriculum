@@ -1,0 +1,3 @@
+# Advanced Training
+
+Start typing here...

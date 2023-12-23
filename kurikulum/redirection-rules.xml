@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE rules SYSTEM "https://resources.jetbrains.com/writerside/1.0/redirection-rules.dtd">
+<rules>
+    <!-- format is as follows
+    <rule id="<unique id>">
+        <accepts>page.html</accepts>
+    </rule>
+    -->
+    <rule id="1e7db29d">
+        <description>Created after removal of "kerangka kurikulum" from qodr</description>
+        <accepts>kerangka-kurikulum.html</accepts>
+    </rule>
+    <rule id="31d2b8a3">
+        <description><![CDATA[Created after removal of "<Kurikulum-Computer-Introduction.md>" from qodr]]></description>
+        <accepts>Kurikulum-Computer-Introduction.html</accepts>
+    </rule>
+    <rule id="1c3f59f2">
+        <description>Created after removal of "persiapan-lkp" from qodr</description>
+        <accepts>persiapan-lkp.html</accepts>
+    </rule>
+</rules>
